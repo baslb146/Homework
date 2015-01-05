@@ -1,0 +1,12 @@
+E:\C#作业\Project4\Project4\bin\Debug\Project4.exe
+E:\C#作业\Project4\Project4\bin\Debug\Project4.pdb
+E:\C#作业\Project4\Project4\obj\Debug\ResolveAssemblyReference.cache
+E:\C#作业\Project4\Project4\obj\Debug\Project4.Form1.resources
+E:\C#作业\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+E:\C#作业\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+E:\C#作业\Project4\Project4\obj\Debug\Project4.exe
+E:\C#作业\Project4\Project4\obj\Debug\Project4.pdb
+H:\2\Project4\Project4\obj\Debug\Project4.exe
+H:\2\Project4\Project4\obj\Debug\Project4.pdb
+H:\C#作业大全\C#zuoye\Project4\Project4\obj\Debug\Project4.exe
+H:\C#作业大全\C#zuoye\Project4\Project4\obj\Debug\Project4.pdb
